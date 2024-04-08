@@ -1,0 +1,15 @@
+
+
+.slide5left button:hover {
+    background-color: yellow;
+    color: black;
+}
+
+
+.slide5payments {
+    height: 400px;
+}
+
+.slide5payments img:hover{
+    transform: scale(1.1)
+}

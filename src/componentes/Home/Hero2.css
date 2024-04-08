@@ -1,0 +1,27 @@
+
+.slide4InfoSubDiv p:nth-child(1){
+    font-size: 50px;
+    font-weight: 700;
+    color: #00BF63;
+}
+
+ 
+
+
+
+.mega-comment{
+   
+    animation-name: scrollup;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    
+}
+
+@keyframes scrollup {
+    from {transform: translateY(0%);}
+    to{transform: translateY(-80%);}
+}
+
+
+

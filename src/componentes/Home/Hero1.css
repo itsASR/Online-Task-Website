@@ -1,0 +1,10 @@
+.slide3 {
+    
+    color: black;
+    text-align: center;
+    background-image: url('./website-banner.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+}

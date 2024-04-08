@@ -1,0 +1,9 @@
+.slide1 {
+    background-image: url('./Slide1BG3.png');  
+}
+
+
+.slide1Left button:hover{
+    background-color: yellow;
+    color: black;
+}
